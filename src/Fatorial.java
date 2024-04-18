@@ -13,5 +13,6 @@ public class Fatorial {
         }
         System.out.println("O fatorial " + nunmber + "! é : " + fatorial);
         System.out.println("Adeus");
+        System.out.println("Goodbye");
     }
 }
